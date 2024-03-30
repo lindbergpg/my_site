@@ -1,0 +1,2 @@
+Username (leave blank to use 'lindberg'): 
+Email address: lindberg@admin.com
